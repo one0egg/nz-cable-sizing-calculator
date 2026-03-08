@@ -1,0 +1,28 @@
+[
+  {
+    "category": "ambient_temperature",
+    "mode": "LV",
+    "items": [
+      { "key": "30C", "label": "30°C", "factor": 1.0 },
+      { "key": "35C", "label": "35°C", "factor": 0.94 },
+      { "key": "40C", "label": "40°C", "factor": 0.87 }
+    ]
+  },
+  {
+    "category": "grouping",
+    "mode": "LV",
+    "items": [
+      { "key": "1", "label": "1 circuit", "factor": 1.0 },
+      { "key": "2", "label": "2 circuits", "factor": 0.8 },
+      { "key": "3", "label": "3 circuits", "factor": 0.7 }
+    ]
+  },
+  {
+    "category": "installation",
+    "mode": "LV",
+    "items": [
+      { "key": "standard", "label": "Standard", "factor": 1.0 },
+      { "key": "other", "label": "Other adjustment", "factor": 0.95 }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "LV-CU-3C-16-XLPE",
+    "mode": "LV",
+    "material": "Cu",
+    "conductor_mm2": 16,
+    "cores": 3,
+    "insulation": "XLPE",
+    "sheath": "PVC",
+    "installationMethods": ["enclosed_conduit", "free_air"],
+    "baseAmpacity": [
+      { "method": "enclosed_conduit", "valueA": 76 },
+      { "method": "free_air", "valueA": 94 }
+    ],
+    "voltageDrop": [
+      { "system": "1ph", "mv_per_a_m": 4.4 },
+      { "system": "3ph", "mv_per_a_m": 2.8 }
+    ],
+    "outerDiameterMm": 18,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "AS/NZS 3008 derived company library"
+  },
+  {
+    "id": "LV-CU-3C-35-XLPE",
+    "mode": "LV",
+    "material": "Cu",
+    "conductor_mm2": 35,
+    "cores": 3,
+    "insulation": "XLPE",
+    "sheath": "PVC",
+    "installationMethods": ["enclosed_conduit", "free_air"],
+    "baseAmpacity": [
+      { "method": "enclosed_conduit", "valueA": 125 },
+      { "method": "free_air", "valueA": 146 }
+    ],
+    "voltageDrop": [
+      { "system": "1ph", "mv_per_a_m": 1.95 },
+      { "system": "3ph", "mv_per_a_m": 1.25 }
+    ],
+    "outerDiameterMm": 24,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "AS/NZS 3008 derived company library"
+  },
+  {
+    "id": "LV-CU-3C-70-XLPE",
+    "mode": "LV",
+    "material": "Cu",
+    "conductor_mm2": 70,
+    "cores": 3,
+    "insulation": "XLPE",
+    "sheath": "PVC",
+    "installationMethods": ["enclosed_conduit", "free_air"],
+    "baseAmpacity": [
+      { "method": "enclosed_conduit", "valueA": 192 },
+      { "method": "free_air", "valueA": 224 }
+    ],
+    "voltageDrop": [
+      { "system": "1ph", "mv_per_a_m": 1.06 },
+      { "system": "3ph", "mv_per_a_m": 0.68 }
+    ],
+    "outerDiameterMm": 30,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "AS/NZS 3008 derived company library"
+  },
+  {
+    "id": "LV-CU-3C-120-XLPE",
+    "mode": "LV",
+    "material": "Cu",
+    "conductor_mm2": 120,
+    "cores": 3,
+    "insulation": "XLPE",
+    "sheath": "PVC",
+    "installationMethods": ["enclosed_conduit", "free_air"],
+    "baseAmpacity": [
+      { "method": "enclosed_conduit", "valueA": 269 },
+      { "method": "free_air", "valueA": 312 }
+    ],
+    "voltageDrop": [
+      { "system": "1ph", "mv_per_a_m": 0.62 },
+      { "system": "3ph", "mv_per_a_m": 0.40 }
+    ],
+    "outerDiameterMm": 36,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "AS/NZS 3008 derived company library"
+  },
+  {
+    "id": "LV-CU-3C-240-XLPE",
+    "mode": "LV",
+    "material": "Cu",
+    "conductor_mm2": 240,
+    "cores": 3,
+    "insulation": "XLPE",
+    "sheath": "PVC",
+    "installationMethods": ["enclosed_conduit", "free_air"],
+    "baseAmpacity": [
+      { "method": "enclosed_conduit", "valueA": 415 },
+      { "method": "free_air", "valueA": 475 }
+    ],
+    "voltageDrop": [
+      { "system": "1ph", "mv_per_a_m": 0.33 },
+      { "system": "3ph", "mv_per_a_m": 0.21 }
+    ],
+    "outerDiameterMm": 46,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "AS/NZS 3008 derived company library"
+  }
+]

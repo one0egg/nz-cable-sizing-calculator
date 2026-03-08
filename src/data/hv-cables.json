@@ -1,0 +1,112 @@
+[
+  {
+    "id": "HV-CU-1C-35-XLPE-12kV",
+    "mode": "HV",
+    "material": "Cu",
+    "conductor_mm2": 35,
+    "cores": 1,
+    "insulation": "XLPE 12kV",
+    "sheath": "PE",
+    "installationMethods": ["trefoil_buried", "trefoil_air", "duct"],
+    "baseAmpacity": [
+      { "method": "trefoil_buried", "valueA": 155 },
+      { "method": "trefoil_air", "valueA": 175 },
+      { "method": "duct", "valueA": 145 }
+    ],
+    "voltageDrop": [
+      { "system": "3ph", "mv_per_a_m": 1.4 }
+    ],
+    "outerDiameterMm": 22,
+    "shortCircuit1s_kA": 4.6,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "Approved HV cable library"
+  },
+  {
+    "id": "HV-CU-1C-70-XLPE-12kV",
+    "mode": "HV",
+    "material": "Cu",
+    "conductor_mm2": 70,
+    "cores": 1,
+    "insulation": "XLPE 12kV",
+    "sheath": "PE",
+    "installationMethods": ["trefoil_buried", "trefoil_air", "duct"],
+    "baseAmpacity": [
+      { "method": "trefoil_buried", "valueA": 225 },
+      { "method": "trefoil_air", "valueA": 255 },
+      { "method": "duct", "valueA": 210 }
+    ],
+    "voltageDrop": [
+      { "system": "3ph", "mv_per_a_m": 0.75 }
+    ],
+    "outerDiameterMm": 27,
+    "shortCircuit1s_kA": 9.4,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "Approved HV cable library"
+  },
+  {
+    "id": "HV-CU-1C-120-XLPE-12kV",
+    "mode": "HV",
+    "material": "Cu",
+    "conductor_mm2": 120,
+    "cores": 1,
+    "insulation": "XLPE 12kV",
+    "sheath": "PE",
+    "installationMethods": ["trefoil_buried", "trefoil_air", "duct"],
+    "baseAmpacity": [
+      { "method": "trefoil_buried", "valueA": 300 },
+      { "method": "trefoil_air", "valueA": 335 },
+      { "method": "duct", "valueA": 280 }
+    ],
+    "voltageDrop": [
+      { "system": "3ph", "mv_per_a_m": 0.49 }
+    ],
+    "outerDiameterMm": 33,
+    "shortCircuit1s_kA": 16.1,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "Approved HV cable library"
+  },
+  {
+    "id": "HV-CU-1C-185-XLPE-12kV",
+    "mode": "HV",
+    "material": "Cu",
+    "conductor_mm2": 185,
+    "cores": 1,
+    "insulation": "XLPE 12kV",
+    "sheath": "PE",
+    "installationMethods": ["trefoil_buried", "trefoil_air", "duct"],
+    "baseAmpacity": [
+      { "method": "trefoil_buried", "valueA": 380 },
+      { "method": "trefoil_air", "valueA": 420 },
+      { "method": "duct", "valueA": 355 }
+    ],
+    "voltageDrop": [
+      { "system": "3ph", "mv_per_a_m": 0.34 }
+    ],
+    "outerDiameterMm": 38,
+    "shortCircuit1s_kA": 24.7,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "Approved HV cable library"
+  },
+  {
+    "id": "HV-CU-1C-300-XLPE-12kV",
+    "mode": "HV",
+    "material": "Cu",
+    "conductor_mm2": 300,
+    "cores": 1,
+    "insulation": "XLPE 12kV",
+    "sheath": "PE",
+    "installationMethods": ["trefoil_buried", "trefoil_air", "duct"],
+    "baseAmpacity": [
+      { "method": "trefoil_buried", "valueA": 490 },
+      { "method": "trefoil_air", "valueA": 540 },
+      { "method": "duct", "valueA": 460 }
+    ],
+    "voltageDrop": [
+      { "system": "3ph", "mv_per_a_m": 0.23 }
+    ],
+    "outerDiameterMm": 46,
+    "shortCircuit1s_kA": 40.1,
+    "notes": ["Placeholder dataset — replace with approved company values"],
+    "sourceRef": "Approved HV cable library"
+  }
+]

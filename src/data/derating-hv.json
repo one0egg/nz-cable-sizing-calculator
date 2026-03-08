@@ -1,0 +1,27 @@
+[
+  {
+    "category": "soil_temperature",
+    "mode": "HV",
+    "items": [
+      { "key": "15C", "label": "15°C", "factor": 1.0 },
+      { "key": "20C", "label": "20°C", "factor": 0.96 },
+      { "key": "25C", "label": "25°C", "factor": 0.92 }
+    ]
+  },
+  {
+    "category": "soil_thermal_resistivity",
+    "mode": "HV",
+    "items": [
+      { "key": "standard", "label": "Standard", "factor": 1.0 },
+      { "key": "elevated", "label": "Elevated", "factor": 0.9 }
+    ]
+  },
+  {
+    "category": "formation",
+    "mode": "HV",
+    "items": [
+      { "key": "standard", "label": "Standard", "factor": 1.0 },
+      { "key": "other", "label": "Other adjustment", "factor": 0.95 }
+    ]
+  }
+]

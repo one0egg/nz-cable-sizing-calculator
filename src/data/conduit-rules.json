@@ -1,0 +1,44 @@
+[
+  {
+    "conduit_mm": 20,
+    "approx_internal_diameter_mm": 16,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  },
+  {
+    "conduit_mm": 25,
+    "approx_internal_diameter_mm": 21,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  },
+  {
+    "conduit_mm": 32,
+    "approx_internal_diameter_mm": 28,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  },
+  {
+    "conduit_mm": 40,
+    "approx_internal_diameter_mm": 35,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  },
+  {
+    "conduit_mm": 50,
+    "approx_internal_diameter_mm": 44,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  },
+  {
+    "conduit_mm": 63,
+    "approx_internal_diameter_mm": 56,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  },
+  {
+    "conduit_mm": 80,
+    "approx_internal_diameter_mm": 72,
+    "max_fill_ratio": 0.4,
+    "notes": "Placeholder only — replace with approved Appendix C based values"
+  }
+]
